@@ -1,0 +1,2 @@
+ndk path (%NDK_ROOT%)
+project path
